@@ -1,1 +1,1 @@
-Utility files for assembly written in nasm
+Utility files for assembly programs written in nasm
